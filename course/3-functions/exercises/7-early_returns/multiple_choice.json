@@ -5,4 +5,4 @@
     "Guard clauses are unreadable",
     "Guard clauses are generally worse than nested if/else statements"
   ]
-}
+} //Answer: Guard clauses provide a linear approach to logic trees

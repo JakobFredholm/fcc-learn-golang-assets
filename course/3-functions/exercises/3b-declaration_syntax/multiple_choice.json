@@ -7,3 +7,4 @@
     "A function named 'f' that takes a function and an int as arguments and returns a function"
   ]
 }
+//Answer: A function named 'f' that takes a function and an int as arguments and returns an int

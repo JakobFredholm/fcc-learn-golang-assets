@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func yearsUntilEvents(age int) (int, int, int) {
+func yearsUntilEvents(age int) (yearsUntilAdult, yearsUntilDrinking ,yearsUntilCarRental int) {
 	yearsUntilAdult = 18 - age
 	if yearsUntilAdult < 0 {
 		yearsUntilAdult = 0
@@ -17,7 +17,7 @@ func yearsUntilEvents(age int) (int, int, int) {
 	if yearsUntilCarRental < 0 {
 		yearsUntilCarRental = 0
 	}
-	return
+	return 
 }
 
 // don't edit below this line
