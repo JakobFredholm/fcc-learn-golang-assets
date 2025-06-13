@@ -5,11 +5,16 @@ import (
 )
 
 func (e email) cost() float64 {
-	// ?
+	if e.isSubscribed{
+		return float64(len(e.body)) * .01
+	}
+	
+	return float64(len(e.body)) *.05
+	
 }
 
 func (e email) print() {
-	// ?
+	fmt.Println(e.body)
 }
 
 // don't touch below this line
