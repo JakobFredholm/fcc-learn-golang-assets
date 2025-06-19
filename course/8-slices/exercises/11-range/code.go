@@ -3,7 +3,17 @@ package main
 import "fmt"
 
 func indexOfFirstBadWord(msg []string, badWords []string) int {
-	// ?
+	index := -1
+
+	for i, message := range(msg){
+		for _, badword := range(badWords){
+			if message == badword {
+				return i
+			}
+		}
+		
+	}
+	return index
 }
 
 // don't touch below this line

@@ -5,4 +5,4 @@
     "Always assign the result of the append() function to a new slice",
     "Don't use the append() function"
   ]
-}
+} //answer: Always assign the result of the append() function back to the same slice
