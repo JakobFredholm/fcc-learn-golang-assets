@@ -5,4 +5,4 @@
     "The type is basic",
     "The type is Go native; not custom"
   ]
-}
+} // answer: The type is comparable
