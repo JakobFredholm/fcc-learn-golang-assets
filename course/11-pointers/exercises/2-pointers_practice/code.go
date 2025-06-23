@@ -2,10 +2,15 @@ package main
 
 import (
 	"fmt"
+	"strings"
 )
 
 func removeProfanity(message *string) {
-	// ?
+	messageval := *message
+	messageval = strings.ReplaceAll(messageval, "shoot", "*****")
+	messageval = strings.ReplaceAll(messageval, "dang", "****")
+	messageval = strings.ReplaceAll(messageval, "heck", "****")
+	*message = messageval
 }
 
 // don't touch below this line
