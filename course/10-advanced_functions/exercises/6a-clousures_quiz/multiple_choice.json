@@ -4,4 +4,4 @@
     "a mutable reference to the original value",
     "a copy of the value"
   ]
-}
+} // answer: a mutable reference to the original value
