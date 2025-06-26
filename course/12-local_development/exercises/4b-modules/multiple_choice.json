@@ -5,4 +5,4 @@
     "An HTTP connection",
     "A RESTful server"
   ]
-}
+} //answer: A module path + package subdirectory

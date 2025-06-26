@@ -4,4 +4,4 @@
     "Lowercase names aren't exported for external use",
     "Conventionally uppercase names are used in Go"
   ]
-}
+} //answer: Lowercase names aren't exported for external use

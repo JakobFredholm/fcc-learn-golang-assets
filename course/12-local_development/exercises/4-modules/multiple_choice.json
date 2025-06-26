@@ -6,4 +6,4 @@
     "An executable main package",
     "A file of Go code"
   ]
-}
+} //answer: A collection of packages that are released together

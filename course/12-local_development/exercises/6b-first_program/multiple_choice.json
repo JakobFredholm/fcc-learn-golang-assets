@@ -5,4 +5,4 @@
     "{REMOTE}/{USERNAME}/hellogo",
     "module hellogo"
   ]
-}
+} //answer: module {REMOTE}/{USERNAME}/hellogo

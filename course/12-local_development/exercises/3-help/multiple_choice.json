@@ -5,4 +5,4 @@
     "go version {os}/{architecture} {version}",
     "{version} {os}/{architecture}"
   ]
-}
+} //answer: go version {version} {os}/{architecture}

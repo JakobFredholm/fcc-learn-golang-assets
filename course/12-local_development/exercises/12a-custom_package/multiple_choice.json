@@ -6,4 +6,4 @@
     "NPM hosts the files publicly",
     "It was fetched from Github"
   ]
-}
+} //answer: We used the 'replace' keyword in go.mod to point it to the relative location of mystrings
